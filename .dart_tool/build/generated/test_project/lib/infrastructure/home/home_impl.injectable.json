@@ -1,0 +1,1 @@
+[{"type":{"import":"package:test_project/domain/home/home_service.dart","name":"HomeService","isNullable":false},"typeImpl":{"import":"package:test_project/infrastructure/home/home_impl.dart","name":"HomeImpliments","isNullable":false},"isAsync":false,"preResolve":false,"injectableType":2,"dependsOn":[],"environments":[],"dependencies":[],"constructorName":""}]
